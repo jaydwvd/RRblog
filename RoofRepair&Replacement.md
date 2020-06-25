@@ -62,7 +62,7 @@ Nationally, the average homeowner spends about <strong>$7,944</strong> to instal
 <p><strong>Average Cost of a Roof Replacement by Location</strong><br>
 Average cost of roof replacement for major cities across USA:</p>
 <p>Florida:<strong>$8,000-$16,500</strong><br>
-Houston, Texas:<strong>$5,730-$10,545</strong><br>
+Houston:<strong>$5,730-$10,545</strong><br>
 Maryland:<strong>$4,500-$9,320</strong><br>
 Michigan:<strong>$6,530-$11,900</strong><br>
 Colorado:<strong>$6,300-$12,300</strong><br>
